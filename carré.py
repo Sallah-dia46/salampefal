@@ -1,4 +1,4 @@
-import turtle
+import turtle #importation de turtle
 a=turtle.Turtle()
 i=1
 while i<5:
