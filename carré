@@ -1,8 +1,8 @@
 import turtle
 a=turtle.Turtle()
+a.forward(100)
+a.left(90)
 i=1
-while i<5:
+while i<5
    a.forward(100)
-   a.left(90)
-turtle.exitonclick()
-
+   a.lleft(90) 
